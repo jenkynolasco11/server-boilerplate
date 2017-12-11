@@ -1,0 +1,8 @@
+{
+  "port" : 8000,
+  "sessionKey" : "M1S3CR371554F3",
+  "appKeys" : [
+    "key1"
+    , "key2"
+  ]
+}
